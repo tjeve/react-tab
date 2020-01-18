@@ -1,1 +1,1 @@
-This app is a digitalcrafts projectf or practicing with React.
+This app is a digitalcrafts project for practicing with React.
